@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @gururajrs
+### Hi there 👋
+
+I am Gururaj R Shetty
+
+I am Web Design and developer and also Graphic Designer
+
+<!---
+gururajrs/gururajrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-gururajrs/gururajrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
